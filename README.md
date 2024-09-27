@@ -12,3 +12,7 @@ Exemplos disponíveis independentes do tempo:
 
 Exemplos disponíveis dependentes do tempo:
 - Equação do Calor 2D com condição de contorno de Dirichlet;
+
+## DeepONets
+Exemplo: 
+- Operador Antiderivada
